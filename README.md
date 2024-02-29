@@ -65,18 +65,32 @@ print("RMSE= ",rmse)
 ## Output:
 Dataset:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/7357464e-0c4c-4023-af7f-75cb8877c7e2)
+
+
 Head values:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/00bf3582-843e-42f4-a9a7-bc7580ba720f)
+
+
 Tail values:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/f15d94c6-3518-420f-8e57-f74ad9505b39)
+
+
 X and Y values:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/0f9a489b-5b83-466d-a9a9-32da20f85f6a)
+
+
 Predication values of X and Y:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/1fc9decc-4949-42dd-9955-e7a858616c94)
+
+
 MSE,MAE and RMSE:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/45303e37-77a1-4866-8164-4c5ab4e4afc6)
+
+
 Training Set:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/5ed3511f-d5ca-4a64-b586-030bb9a7fa27)
+
+
 Testing Set:
 ![image](https://github.com/Kamaleshwa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144980199/99b1bc0a-e7ca-4f25-aa0e-1846381ffb71)
 
